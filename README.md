@@ -43,7 +43,10 @@ Skills: Python / C++/ C / HTML / CSS
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auseofficial&show_icons=true)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auseofficial&theme=github)
+<div style="display: flex; justify-content: center;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bimashazaman&theme=github" />
+</div>
+
 
 ## ☕ Connect with me!
 
