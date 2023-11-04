@@ -39,14 +39,11 @@ Skills: Python / C++/ C / HTML / CSS
 
 ## 👨‍💻 GitHub Profile Overview
 
-<center>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auseofficial&show_icons=true)
-
-
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=auseofficial&show_icons=true" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auseofficial&theme=github" />
 </div>
-</center>
+
 
 ## ☕ Connect with me!
 
