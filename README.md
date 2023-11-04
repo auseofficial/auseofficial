@@ -49,11 +49,10 @@ Skills: Python / C++/ C / HTML / CSS
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YourUsername)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=auseofficial)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
 
-![Private Repositories](https://img.shields.io/badge/Private%20Repos-Include-brightgreen)
 
 
 
