@@ -9,6 +9,7 @@
     <a href="https://www.linkedin.com/in/auseofficial/" target="_blank">
         <img src="https://img.shields.io/badge/Follow%20%40auseofficial-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    ![Profile Views](https://komarev.com/ghpvc/?username=auseofficial)
 </p>
 
 
@@ -25,7 +26,6 @@ Skills: Python / C++/ C / HTML / CSS
 
 ## GitHub Profile Overview
 
-![Profile Views](https://komarev.com/ghpvc/?username=auseofficial)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auseofficial&show_icons=true)
 
