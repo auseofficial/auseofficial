@@ -26,9 +26,13 @@ If you're interested in discussing potential collaborations or seeking guidance 
   <img src="https://github.com/bimashazaman/Github-snake-SVG/blob/master/snake.svg"
        alt="snake" /></a>
 </div>
+<br> <br>
 👑 I am a Web Developer <br>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge
+🖊️ Love to write code
+💻 Cybersecurity Enthusiast
+🌐 Expert in Website Security and Development
 
 <p align="center">
     <a href="https://www.linkedin.com/in/auseofficial/" target="_blank">
