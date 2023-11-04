@@ -5,6 +5,9 @@
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge
 
+
+<p align="left"> <a href="https://linkedin.com/auseofficial" target="blank"><img src="https://img.shields.io/twitter/follow/shovoalways?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
+
 Skills: Python / C++/ C / HTML / CSS
 
 - 🔭 I’m currently working on Fiverr and Upwork 
