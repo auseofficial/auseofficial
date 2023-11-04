@@ -43,6 +43,19 @@ Skills: Python / C++/ C / HTML / CSS
     </a>
 </div>
 
+## GitHub Profile Overview
+
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YourUsername)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
+
+![Private Repositories](https://img.shields.io/badge/Private%20Repos-Include-brightgreen)
+
+
 
 
 ## 📧 For Business Inquiries 
