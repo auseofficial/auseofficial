@@ -59,7 +59,7 @@ Skills: Python / C++/ C / HTML / CSS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=auseofficial&show_icons=true" style="display: block; margin: 0 auto;" /><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=auseofficial&show_icons=true" style="display: block; margin: 0 auto;" /><br><br>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auseofficial&theme=github" style="display: block; margin: 0 auto;" />
 </div>
 
