@@ -44,7 +44,7 @@ Skills: Python / C++/ C / HTML / CSS
 
 
 <div style="display: flex; justify-content: center;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bimashazaman&theme=github" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auseofficial&theme=github" />
 </div>
 
 
