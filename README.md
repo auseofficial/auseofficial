@@ -25,7 +25,7 @@ Skills: Python / C++/ C / HTML / CSS
 
 ## GitHub Profile Overview
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername)
+![Profile Views](https://komarev.com/ghpvc/?username=auseofficial)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auseofficial&show_icons=true)
 
