@@ -5,12 +5,16 @@
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/auseofficial/" target="_blank">
-        <img src="https://img.shields.io/badge/Follow%20%40auseofficial-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    ![Profile Views](https://komarev.com/ghpvc/?username=auseofficial)
-</p>
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <p align="center">
+        <a href="https://www.linkedin.com/in/auseofficial/" target="_blank">
+            <img src="https://img.shields.io/badge/Follow%20%40auseofficial-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+    </p>
+    <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=auseofficial" alt="Profile Views" />
+    </p>
+</div>
 
 
 
