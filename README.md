@@ -78,6 +78,7 @@ Skills: Python / C++/ C / HTML / CSS
         <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
     </a>
 </p>
+<br> 
 <br>
 
 ## 📧 For Business Inquiries 
