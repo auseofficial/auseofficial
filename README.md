@@ -95,44 +95,6 @@ Skills: Python / C++/ C / HTML / CSS
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Announcing React Day Berlin 2023!!](https://www.youtube.com/watch?v=EwMUadklI4s)
-- [How to Use shadcn/ui: Installing a Button Made Simple! #shadcn #ui](https://www.youtube.com/watch?v=VeAT5tPc1iQ)
-- [Next.js Setup with shadcn/ui: Quick Tutorial for Seamless Integration! #shadcn #ui](https://www.youtube.com/watch?v=GNi2fE10LcU)
-- [Remix Setup with shadcn/ui: Easy Guide to Enhance Your Project! #shadcn #ui](https://www.youtube.com/watch?v=UmmaFU7qohk)
-- [Get Started with shadcn/ui in Gatsby: A Beginner&#39;s Tutorial!](https://www.youtube.com/watch?v=1iSYpeI4mVc)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Next.js 14: No New APIs &amp; Breaking Changes](https://dev.to/mongodb/nextjs-14-no-new-apis-breaking-changes-3nh3)
-- [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
-- [Web Development Roadmap 2023](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1261](https://github.com/syntaxfm/website/pull/1261) in [syntaxfm/website](https://github.com/syntaxfm/website)
-2. 🔒 Closed issue [#1235](https://github.com/shadcn-ui/ui/issues/1235) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-3. 🗣 Commented on [#1235](https://github.com/shadcn-ui/ui/issues/1235#issuecomment-1679215686) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-4. ❗ Opened issue [#1235](https://github.com/shadcn-ui/ui/issues/1235) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-5. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
-<!--END_SECTION:activity-->
 
 
 ## 📧 For Business Inquiries 
