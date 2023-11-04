@@ -3,8 +3,16 @@
     <p><b>Digital Craftsman (Web Developer, Creator)</b></p>
 </div>
 
-![](https://media.licdn.com/dms/image/D5616AQH-7fMOADLNdA/profile-displaybackgroundimage-shrink_350_1400/0/1688328144576?e=1704326400&v=beta&t=B5cCScf-brGOjRzJ8uKO32b65g-faCGtVQPiPq7_OLQ)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=196209&width=435&lines=Hello+Fellow+%3C%2FDevelopers%3E" alt="Typing SVG" /></a>
+</div>
 
+
+<div align="center">
+  <a href="https://bimasha.com/">
+  <img src="https://github.com/bimashazaman/Github-snake-SVG/blob/master/snake.svg"
+       alt="snake" /></a>
+</div>
 👑 I am a Web Developer <br>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge
