@@ -47,7 +47,7 @@ Skills: Python / C++/ C / HTML / CSS
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auseofficial&show_icons=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=auseofficial)
 
