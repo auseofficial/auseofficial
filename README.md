@@ -22,7 +22,7 @@ If you're interested in discussing potential collaborations or seeking guidance 
 
 
 <div align="center">
-  <a href="https://bimasha.com/">
+  <a href="https://github.com/bimashazaman">
   <img src="https://github.com/bimashazaman/Github-snake-SVG/blob/master/snake.svg"
        alt="snake" /></a>
 </div>
