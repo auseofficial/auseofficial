@@ -1,6 +1,6 @@
 # 🏄‍♂️ I am Akib Us Suny Eshan 
 <div style="background-color: #f4f4f4; padding: 20px; text-align: center;">
-    <p>Digital Craftsman (Web Developer, Creator)</p>
+    <p><b>Digital Craftsman (Web Developer, Creator)</b></p>
 </div>
 
 ![](https://media.licdn.com/dms/image/D5616AQH-7fMOADLNdA/profile-displaybackgroundimage-shrink_350_1400/0/1688328144576?e=1704326400&v=beta&t=B5cCScf-brGOjRzJ8uKO32b65g-faCGtVQPiPq7_OLQ)
