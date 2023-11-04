@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Akib Us Suny Eshan
 ![](https://media.licdn.com/dms/image/D5616AQH-7fMOADLNdA/profile-displaybackgroundimage-shrink_350_1400/0/1688328144576?e=1704326400&v=beta&t=B5cCScf-brGOjRzJ8uKO32b65g-faCGtVQPiPq7_OLQ)
 
-👑 I am Web Developer
-🖊️ Love to write code
+👑 I am Web Developer <br>
+🖊️ Love to write code <br>
 🎤 Like to share my knowledgecopy/paste and use in your profile.
 
 Skills: Python / C++/ C / HTML / CSS
