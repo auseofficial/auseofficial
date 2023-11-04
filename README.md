@@ -8,10 +8,9 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/auseofficial/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn" style="height: 30px;">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
     </a>
 </p>
-
 
 Skills: Python / C++/ C / HTML / CSS
 
