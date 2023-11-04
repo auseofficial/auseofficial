@@ -6,7 +6,7 @@
 🎤 Like to share my knowledge
 
 
-<p align="left"> <a href="https://linkedin.com/auseofficial" target="blank"><img src="https://img.shields.io/twitter/follow/shovoalways?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/auseofficial" target="blank"><img src="https://img.shields.io/twitter/follow/auseofficial?logo=linkedin&style=for-the-badge" alt="auseofficial" /></a> </p>
 
 Skills: Python / C++/ C / HTML / CSS
 
