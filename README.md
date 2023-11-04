@@ -7,10 +7,11 @@
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/auseofficial/" target="blank">
-        <img src="https://img.shields.io/linkedin/follow/auseofficial?logo=linkedin&style=for-the-badge" alt="auseofficial" />
+    <a href="https://www.linkedin.com/in/auseofficial/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn" style="height: 30px;">
     </a>
 </p>
+
 
 Skills: Python / C++/ C / HTML / CSS
 
