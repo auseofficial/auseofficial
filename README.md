@@ -59,7 +59,7 @@ Skills: Python / C++/ C / HTML / CSS
 <div>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auseofficial&theme=github" style="display: block; margin: 0 auto;" />
 </div>
-| <a href="https://github.com/auseofficial/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=auseofficial&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/auseofficial/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auseofficial&layout=compact&theme=buefy&hide_border=true" /></a> |
+ <a href="https://github.com/auseofficial/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=auseofficial&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/auseofficial/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auseofficial&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
@@ -118,4 +118,5 @@ Skills: Python / C++/ C / HTML / CSS
 <br>
 <br>
 # Thanks for Visiting my GitHub Profile!
+
 
