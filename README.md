@@ -1,5 +1,5 @@
 # 🏄‍♂️ I am Akib Us Suny Eshan 
-<h2>0.02% About Me as a Digital Craftsman :</h2>
+<h2>0.02% About Me as a Digital Craftsman </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -22,7 +22,7 @@ If you're interested in discussing potential collaborations or seeking guidance 
 
 
 <div align="center">
-  <a href="https://github.com/bimashazaman">
+  <a href="https://github.com/auseofficial">
   <img src="https://github.com/bimashazaman/Github-snake-SVG/blob/master/snake.svg"
        alt="snake" /></a>
 </div>
