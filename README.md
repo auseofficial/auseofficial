@@ -23,6 +23,13 @@ Skills: Python / C++/ C / HTML / CSS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
 
+## GitHub Profile Overview
+
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auseofficial&show_icons=true)
+
+
 ## ☕ Connect with me!
 
 <div style="display: flex; justify-content: center;">
@@ -43,13 +50,7 @@ Skills: Python / C++/ C / HTML / CSS
     </a>
 </div>
 
-## GitHub Profile Overview
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auseofficial&show_icons=true)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=auseofficial)
 
 
 
