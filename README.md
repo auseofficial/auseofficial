@@ -6,11 +6,12 @@
 🎤 Like to share my knowledge
 
 
-<p align="left">
+<div style="text-align: center;">
     <a href="https://www.linkedin.com/in/auseofficial/" target="_blank">
         <img src="https://img.shields.io/badge/Follow%20%40auseofficial-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-</p>
+</div>
+
 
 
 Skills: Python / C++/ C / HTML / CSS
