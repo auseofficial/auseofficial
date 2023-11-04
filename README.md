@@ -52,11 +52,10 @@ Skills: Python / C++/ C / HTML / CSS
 
 ## 👨‍💻 GitHub Profile Overview
 
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=auseofficial&show_icons=true" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auseofficial&theme=github" />
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=auseofficial&show_icons=true" style="display: block; margin: 0 auto;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auseofficial&theme=github" style="display: block; margin: 0 auto;" />
 </div>
-
 
 ## ☕ Connect with me!
 
