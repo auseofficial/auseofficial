@@ -29,9 +29,9 @@ If you're interested in discussing potential collaborations or seeking guidance 
 <br> <br>
 👑 I am a Web Developer <br>
 🖊️ Love to write code <br>
-🎤 Like to share my knowledge
-🖊️ Love to write code
-💻 Cybersecurity Enthusiast
+🎤 Like to share my knowledge<br>
+🖊️ Love to write code<br>
+💻 Cybersecurity Enthusiast<br>
 🌐 Expert in Website Security and Development
 <br>
 <br>
