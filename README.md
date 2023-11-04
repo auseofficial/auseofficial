@@ -1,7 +1,20 @@
 # 🏄‍♂️ I am Akib Us Suny Eshan 
-<div style="background-color: #f4f4f4; padding: 20px; text-align: center;">
-    <p><b>Digital Craftsman (Web Developer, Creator)</b></p>
-</div>
+<h2>0.02% About Me:</h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
+Hello there! I'm a software developer deeply passionate about building amazing projects. 💻
+
+When I'm not coding, you might catch me immersing myself in music. 🎵 It's one of my favorite ways to unwind and find inspiration.
+
+I take commitments very seriously and always strive to meet them with quality work. I believe in the power of keeping one's word.
+
+My life can be summed up in a few simple actions: I eat, sleep, occasionally bust out a dance move, and code. And then repeat. 🍔💤💃👨‍💻
+
+I'm always eager to lend a hand where I can. I firmly believe in the value of collaboration and helping others—it's how we grow and create fantastic things together.
+
+If you have a project in mind or need help with something, feel free to reach out! You can find me on LinkedIn. Simply Google my name and all my contact info will be right there. Cheers! 🎉
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=196209&width=435&lines=Hello+Fellow+%3C%2FDevelopers%3E" alt="Typing SVG" /></a>
