@@ -3,7 +3,7 @@
 
 👑 I am Web Developer <br>
 🖊️ Love to write code <br>
-🎤 Like to share my knowledgecopy/paste and use in your profile.
+🎤 Like to share my knowledge
 
 Skills: Python / C++/ C / HTML / CSS
 
