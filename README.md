@@ -6,19 +6,16 @@
 🎤 Like to share my knowledge
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <div style="flex: 1;">
-        <p align="center">
-            <a href="https://www.linkedin.com/in/auseofficial/" target="_blank">
-                <img src="https://img.shields.io/badge/Follow%20%40auseofficial-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-            </a>
-        </p>
+    <div style="flex: 1; text-align: right;">
+        <a href="https://www.linkedin.com/in/auseofficial/" target="_blank">
+            <img src="https://img.shields.io/badge/Follow%20%40auseofficial-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
     </div>
-    <div style="flex: 1;">
-        <p align="center">
-            <img src="https://komarev.com/ghpvc/?username=auseofficial" alt="Profile Views" />
-        </p>
+    <div style="flex: 1; text-align: left;">
+        <p>Profile views 100</p>
     </div>
 </div>
+
 
 
 
