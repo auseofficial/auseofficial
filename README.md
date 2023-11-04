@@ -33,6 +33,8 @@ If you're interested in discussing potential collaborations or seeking guidance 
 🖊️ Love to write code
 💻 Cybersecurity Enthusiast
 🌐 Expert in Website Security and Development
+<br>
+<br>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/auseofficial/" target="_blank">
@@ -52,10 +54,10 @@ Skills: Python / C++/ C / HTML / CSS
 - 📫 How to reach me: eshan.r029@gmail.com 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
 
 ## 👨‍💻 GitHub Profile Overview
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=auseofficial&show_icons=true" style="display: block; margin: 0 auto;" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auseofficial&theme=github" style="display: block; margin: 0 auto;" />
