@@ -117,5 +117,9 @@ Skills: Python / C++/ C / HTML / CSS
 ✅  ► eshan.r029@gmail.com 
 <br>
 
+[![If I Was a Computer Science Student Again, I'd Do This](https://ytcards.demolab.com/?id=a2BXOpzitAM&title=If+I+Was+a+Computer+Science+Student+Again%2C+I%27d+Do+This&lang=en&timestamp=1698070500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=581 "If I Was a Computer Science Student Again, I'd Do This")](https://https://youtu.be/uWwhJxtY-Gk?si=dkw0Q0CUo0l_psAd)
+[![Dev Startup Day 3 - Design the Database Schema & Frontend Dev](https://ytcards.demolab.com/?id=u_cyoLe2nhE&title=Dev+Startup+Day+3+-+Design+the+Database+Schema+%26+Frontend+Dev&lang=en&timestamp=1697896842&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2651 "Dev Startup Day 3 - Design the Database Schema & Frontend Dev")](https://youtu.be/vY9OiLfCndQ?si=LR-1z68pDpSKmj7n)
+[![Dev Startup Day 2 - Start of the Dev Platform Project w/ Boilerplate](https://ytcards.demolab.com/?id=T8tZuv3JIJY&title=Dev+Startup+Day+2+-+Start+of+the+Dev+Platform+Project+w%2F+Boilerplate&lang=en&timestamp=1697738410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4276 "Dev Startup Day 2 - Start of the Dev Platform Project w/ Boilerplate")](https://https://youtu.be/ybalYimsghc?si=5DLixDQhEi7hcQrH)
+<br>
 # Thanks for Visiting my GitHub Profile!
 
