@@ -124,7 +124,7 @@ Skills: Python / C++/ C / HTML / CSS
 <br>
 
 ## 📧 For Business Inquiries 
-#✅  ► eshan.r029@gmail.com 
+✅  ► eshan.r029@gmail.com 
 <br>
 <br>
 
