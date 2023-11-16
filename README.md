@@ -1,5 +1,5 @@
 # 🏄‍♂️ I am Akib Us Suny Eshan 
-<h2>0.02% About Me as a Digital Craftsman 🚀</h2>
+<h2>0.01% About Me as a Digital Craftsman 🚀</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -66,7 +66,7 @@ Skills: Python / C++/ C / HTML / CSS
     <a href="https://github.com/auseofficial/github-readme-stats"></a>
 </div>
 <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auseofficial&layout=compact" />
 </div>
 
 
@@ -124,7 +124,7 @@ Skills: Python / C++/ C / HTML / CSS
 <br>
 
 ## 📧 For Business Inquiries 
-✅  ► eshan.r029@gmail.com 
+#✅  ► eshan.r029@gmail.com 
 <br>
 <br>
 
