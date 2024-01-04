@@ -59,15 +59,10 @@ Skills: Python / C++/ C / HTML / CSS
 <div style="text-align: center;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auseofficial&theme=github" style="display: block; margin: 0 auto;" />
 </div>
-<div style="display: flex; justify-content: center;">
-    <a href="https://github.com/auseofficial/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=auseofficial&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
-    </a>
-    <a href="https://github.com/auseofficial/github-readme-stats"></a>
-</div>
-<div style="text-align: center;">
+<center><div style="text-align: center;">
     <img align="center"  alt="Akib Us Suny Eshan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-khan-pathan&show_icons=true" />
 </div>
+</center>
 
 
 <br>
