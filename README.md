@@ -66,7 +66,7 @@ Skills: Python / C++/ C / HTML / CSS
     <a href="https://github.com/auseofficial/github-readme-stats"></a>
 </div>
 <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auseofficial&layout=compact" />
+    <img align="center"  alt="Akib Us Suny Eshan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-khan-pathan&show_icons=true" />
 </div>
 
 
