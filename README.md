@@ -47,7 +47,7 @@ If you're interested in discussing potential collaborations or seeking guidance 
 
 
 
-Skills: Python / C++/ C / HTML / CSS
+
 
 - 🔭 I’m currently working on Fiverr and Upwork 
 - 👯 I’m looking to collaborate on Youtube 
