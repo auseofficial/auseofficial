@@ -37,7 +37,7 @@ If you're interested in discussing potential collaborations or seeking guidance 
 <br>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/auseofficial/" target="_blank">
+    <a href="https://www.linkedin.com/in/auseofficial2/" target="_blank">
         <img src="https://img.shields.io/badge/Follow%20%40auseofficial-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </p>
