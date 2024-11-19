@@ -1,5 +1,7 @@
-<div align="center">
-  <h1>🏄‍♂️ I am Akib Us Suny Eshan</h1>
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=680&size=25&duration=3500&pause=500&color=A225F7&width=600&height=45&lines=Hey+there!+🏄‍♂️I+am+Akib Us Suny Eshan+%F0%9F%8C%BB;I'm+embracing+the+journey+ahead+of+me+%F0%9F%9A%B6%E2%80%8D%E2%99%80%EF%B8%8F;There's+plenty+to+learn+%F0%9F%92%8E" alt="Typing SVG" /></a></b></h1>
+
+  
 
   <h2 align="center">0.01% About Me as a Software Engineer 🚀</h2>
 
