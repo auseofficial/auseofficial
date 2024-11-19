@@ -101,5 +101,5 @@
 
 <div align="center">
     📧 For Business Inquiries: eshan.r029@gmail.com <br>
-    🌟 Thanks for visiting my GitHub Profile! 🌟
+<h1 align="center">🌟 Thanks for visiting my GitHub Profile! 🌟</h1>
 </div>
