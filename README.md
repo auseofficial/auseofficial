@@ -110,6 +110,6 @@
 <br>
 
 <div align="center">
-    📧 For Business Inquiries: **eshan.r029@gmail.com** <br>
+    📧 For Business Inquiries: eshan.r029@gmail.com <br>
     🌟 Thanks for visiting my GitHub Profile! 🌟
 </div>
