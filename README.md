@@ -56,13 +56,13 @@ If you're interested in discussing potential collaborations or seeking guidance 
 
 
 ## 👨‍💻 GitHub Profile Overview
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auseofficial&theme=github" style="display: block; margin: 0 auto;" />
-</div>
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img align="center" alt="Akib Us Suny Eshan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-khan-pathan&show_icons=true" />
-</div>
+<h1></h1>
+<h3 align="center">Stats:</h3>
+<p align="center"><img width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=h-alexa&show_icons=true&locale=en&layout=compact" alt="h-alexa" /></p>
 
+<p  align="center">&nbsp;<img width="500px" src="https://github-readme-stats.vercel.app/api?username=h-alexa&show_icons=true&locale=en" alt="h-alexa" /></p>
+
+<p align="center"><img width="500px"  src="https://github-readme-streak-stats.herokuapp.com/?user=h-alexa&" alt="h-alexa" /></p>
 
 
 <br>
