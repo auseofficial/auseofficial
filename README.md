@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🏄‍♂️ I am Akib Us Suny Eshan</h1>
 
-<h2 align="center">0.01% About Me as a Digital Craftsman 🚀</h2>
+<h2 align="center">0.01% About Me as a Software Engineer 🚀</h2>
 
 <div align="center">
     <img width="55%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -27,14 +27,6 @@
 </div>
 
 <br> 
-
-<div align="center">
-    👑 I am a Web Developer <br>
-    🖊️ Love to write code <br>
-    🎤 Like to share my knowledge<br>
-    💻 Cybersecurity Enthusiast<br>
-    🌐 Expert in Website Security and Development
-</div>
 
 <br>
 
