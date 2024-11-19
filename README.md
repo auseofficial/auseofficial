@@ -42,7 +42,6 @@
 <h1></h1>
 
 <div align="center">
-    <h3>Stats:</h3>
     <p>
         <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=auseofficial&show_icons=true&locale=en&layout=compact" alt="auseofficial" />
     </p>
