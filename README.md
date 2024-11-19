@@ -58,11 +58,11 @@ If you're interested in discussing potential collaborations or seeking guidance 
 ## 👨‍💻 GitHub Profile Overview
 <h1></h1>
 <h3 align="center">Stats:</h3>
-<p align="center"><img width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=h-alexa&show_icons=true&locale=en&layout=compact" alt="h-alexa" /></p>
+<p align="center"><img width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=auseofficial&show_icons=true&locale=en&layout=compact" alt="auseofficial" /></p>
 
-<p  align="center">&nbsp;<img width="500px" src="https://github-readme-stats.vercel.app/api?username=h-alexa&show_icons=true&locale=en" alt="h-alexa" /></p>
+<p  align="center">&nbsp;<img width="500px" src="https://github-readme-stats.vercel.app/api?username=auseofficial&show_icons=true&locale=en" alt="auseofficial" /></p>
 
-<p align="center"><img width="500px"  src="https://github-readme-streak-stats.herokuapp.com/?user=h-alexa&" alt="h-alexa" /></p>
+<p align="center"><img width="500px"  src="https://github-readme-streak-stats.herokuapp.com/?user=auseofficial&" alt="auseofficial" /></p>
 
 
 <br>
