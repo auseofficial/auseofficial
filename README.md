@@ -7,7 +7,6 @@
   </h1>
 </div>
 
-
   <h2 align="center">0.01% About Me as a Software Engineer 🚀</h2>
 
   <div align="center">
