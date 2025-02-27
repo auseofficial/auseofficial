@@ -14,10 +14,9 @@
   </div>
 
   <div align="center">
-    Hello there! I am currently interning at Walton Digi-Tech Industries LTD as a Backend Software Engineer, focusing on building secure and efficient digital solutions. 🚀
-    Whether crafting innovative web applications, strengthening digital security, or strategizing impactful marketing campaigns, I tackle challenges with dedication and precision.<br><br>
-    When I'm not coding or solving tech problems, I enjoy exploring new trends, sipping coffee, and experimenting with creative ideas. ☕🌐💻
-    Collaboration and knowledge-sharing are my driving forces. Let's connect and create something meaningful together! 🌟
+As a Backend Software Engineer at Walton Digi-Tech Industries LTD, I specialize in Odoo development, Python, and Django to build secure and scalable backend systems. I work on functional requirements, study tenders, and design intuitive UIs aligned with comprehensive business plans. My expertise includes customizing Odoo modules, developing RESTful APIs, implementing JWT authentication, and optimizing PostgreSQL databases. Passionate about automation and problem-solving, I focus on delivering efficient, high-quality solutions.
+
+Let me know if you need any refinements! 🚀
   </div>
 
   <br>
